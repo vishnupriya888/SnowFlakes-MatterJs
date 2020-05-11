@@ -24,4 +24,5 @@ class SnowFlakes {
         image(this.image,0, 0, 70,70);
         pop();
     }
+   
 };
